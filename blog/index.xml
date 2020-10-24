@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on codex</title>
-    <link>/blog/</link>
+    <link>leningangwal.com/blog/</link>
     <description>Recent content in Blogs on codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 24 Oct 2020 19:21:58 +0530</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 19:21:58 +0530</lastBuildDate><atom:link href="leningangwal.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blog1</title>
-      <link>/blog/blog1/</link>
+      <link>leningangwal.com/blog/blog1/</link>
       <pubDate>Sat, 24 Oct 2020 19:21:58 +0530</pubDate>
       
-      <guid>/blog/blog1/</guid>
+      <guid>leningangwal.com/blog/blog1/</guid>
       <description>hello</description>
     </item>
     
