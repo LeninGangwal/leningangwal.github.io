@@ -3,26 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>https://leningangwal.com/</loc>
     <lastmod>2020-10-24T10:16:23+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>https://leningangwal.com/blog/</loc>
     <lastmod>2020-10-24T10:16:23+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/blog/test1/</loc>
+    <loc>https://leningangwal.com/blog/test1/</loc>
     <lastmod>2020-10-24T10:16:23+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>https://leningangwal.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://leningangwal.com/tags/</loc>
   </url>
   
 </urlset>
