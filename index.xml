@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>codex</title>
-    <link>https://leningangwal.com/</link>
+    <link>https://leningangwal.github.io/</link>
     <description>Recent content on codex</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© {year}</copyright>
-    <lastBuildDate>Sat, 24 Oct 2020 10:16:23 +0530</lastBuildDate><atom:link href="https://leningangwal.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Oct 2020 19:21:58 +0530</lastBuildDate><atom:link href="https://leningangwal.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test1</title>
-      <link>https://leningangwal.com/blog/test1/</link>
-      <pubDate>Sat, 24 Oct 2020 10:16:23 +0530</pubDate>
+      <title>Blog1</title>
+      <link>https://leningangwal.github.io/blog/blog1/</link>
+      <pubDate>Sat, 24 Oct 2020 19:21:58 +0530</pubDate>
       
-      <guid>https://leningangwal.com/blog/test1/</guid>
-      <description></description>
+      <guid>https://leningangwal.github.io/blog/blog1/</guid>
+      <description>hello</description>
     </item>
     
   </channel>
