@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>codex</title>
+    <link>https://leningangwal.github.io/now/</link>
+    <description>Recent content on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 25 Oct 2020 09:44:55 +0530</lastBuildDate><atom:link href="https://leningangwal.github.io/now/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Now1</title>
+      <link>https://leningangwal.github.io/now/now1/</link>
+      <pubDate>Sun, 25 Oct 2020 09:44:55 +0530</pubDate>
+      
+      <guid>https://leningangwal.github.io/now/now1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
