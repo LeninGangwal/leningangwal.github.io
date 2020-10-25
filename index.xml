@@ -35,5 +35,14 @@
       <description>q</description>
     </item>
     
+    <item>
+      <title>post2</title>
+      <link>https://leningangwal.github.io/post/post2/</link>
+      <pubDate>Fri, 25 Sep 2020 08:22:30 +0530</pubDate>
+      
+      <guid>https://leningangwal.github.io/post/post2/</guid>
+      <description>hi this is test hi this is test hi this is test</description>
+    </item>
+    
   </channel>
 </rss>
