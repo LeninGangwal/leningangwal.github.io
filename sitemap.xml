@@ -4,17 +4,7 @@
   
   <url>
     <loc>https://leningangwal.github.io/</loc>
-    <lastmod>2020-10-25T09:44:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leningangwal.github.io/now/now1/</loc>
-    <lastmod>2020-10-25T09:44:55+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leningangwal.github.io/now/</loc>
-    <lastmod>2020-10-25T09:44:55+05:30</lastmod>
+    <lastmod>2020-10-25T08:07:32+05:30</lastmod>
   </url>
   
   <url>
@@ -35,6 +25,11 @@
   <url>
     <loc>https://leningangwal.github.io/post/post2/</loc>
     <lastmod>2020-09-25T08:22:30+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://leningangwal.github.io/now/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
