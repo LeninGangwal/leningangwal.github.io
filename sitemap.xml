@@ -3,33 +3,23 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://leningangwal.github.io/now/</loc>
+    <lastmod>2020-11-17T15:32:38+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://leningangwal.github.io/</loc>
     <lastmod>2020-10-25T08:07:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://leningangwal.github.io/post/post1/</loc>
+    <loc>https://leningangwal.github.io/posts/post1/</loc>
     <lastmod>2020-10-25T08:07:32+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://leningangwal.github.io/post/</loc>
+    <loc>https://leningangwal.github.io/posts/</loc>
     <lastmod>2020-10-25T08:07:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leningangwal.github.io/post/post3/</loc>
-    <lastmod>2020-10-23T09:32:32+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leningangwal.github.io/post/post2/</loc>
-    <lastmod>2020-09-25T08:22:30+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://leningangwal.github.io/now/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

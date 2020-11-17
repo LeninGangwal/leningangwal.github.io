@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on codex</title>
+    <link>https://leningangwal.github.io/posts/</link>
+    <description>Recent content in Posts on codex</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© {year}</copyright>
+    <lastBuildDate>Sun, 25 Oct 2020 08:07:32 +0530</lastBuildDate><atom:link href="https://leningangwal.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post1</title>
+      <link>https://leningangwal.github.io/posts/post1/</link>
+      <pubDate>Sun, 25 Oct 2020 08:07:32 +0530</pubDate>
+      
+      <guid>https://leningangwal.github.io/posts/post1/</guid>
+      <description>hi</description>
+    </item>
+    
+  </channel>
+</rss>
